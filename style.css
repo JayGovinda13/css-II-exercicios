@@ -6,13 +6,16 @@
 
 header{
     border-bottom: 1px solid black;
+    display: flex;
+    flex-direction: column;
     text-align: center;
   }
   
   main{
     text-align: center;
-    left: 25%;
     width: 800px;
+    display: flex;
+    flex-direction: column;
   }
   
   aside{
